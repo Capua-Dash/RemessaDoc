@@ -1,0 +1,6 @@
+dash
+dash
+Flask
+dash-bootstrap-components
+werkzeug
+dash-auth
